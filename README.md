@@ -4,7 +4,7 @@ Fly Choice NZ helps anglers choose practical fly-fishing setups for Taupō-regio
 
 If you have a problem using Fly Choice NZ, have found a bug, or have feedback about the app, please get in touch.
 
-**Email:** i.am.atua@hotmail.com
+**Email:** flychoicenz@gmail.com
 
 When reporting a problem, please include:
 - What you were trying to do
